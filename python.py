@@ -1,8 +1,10 @@
-#Operators with strings
+#Control statements
 
-str1 = 'Hello'
-str2 = 'World'
+num = 0
 
-print(str1 + " " + str2 + " " + str2)
-
-print(str1 * 3)
+if num > 0:
+    print("This number is positive")
+elif num == 0:
+    print("This number is zero")    
+else:
+    print("This number is negative")

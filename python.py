@@ -1,9 +1,14 @@
-#variables
+#operators
 
-my_variable = 10
-total_count = 0
-user = 'John'
+# Addiction (+)
+# Substraction (-)
+# Multiple (*)
+# Division (/)
+# Modulus (%)
+# Exponent (**)
 
-#Invalid
-second_variable = 10
-user_name = 20
+x = 10
+x -= 2
+
+print(x)
+

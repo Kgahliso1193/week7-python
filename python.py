@@ -1,14 +1,8 @@
-#operators
+#Operators with strings
 
-# Addiction (+)
-# Substraction (-)
-# Multiple (*)
-# Division (/)
-# Modulus (%)
-# Exponent (**)
+str1 = 'Hello'
+str2 = 'World'
 
-x = 10
-x -= 2
+print(str1 + " " + str2 + " " + str2)
 
-print(x)
-
+print(str1 * 3)

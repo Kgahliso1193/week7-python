@@ -1,12 +1,9 @@
-#Numeric Data
+#variables
 
-num = 3
+my_variable = 10
+total_count = 0
+user = 'John'
 
-print(type(num))
-
-num2 = 3.14
-
-print(type(num2))
-
-# int num = 3
-# float num = 3
+#Invalid
+second_variable = 10
+user_name = 20
